@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// math function responsible for taking and processing user inputs
 void math () {
 
 char op;
@@ -41,6 +42,7 @@ char op;
     }
 }
 
+// main function responsible for running the math function and checking if the user would like to do another calculation"
 int main() {
 
     char choice;
